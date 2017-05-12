@@ -1,0 +1,14 @@
+@charset "utf-8";
+
+body {
+    
+    font-family: 'Ravi Prakash', cursive !important;
+}
+
+.navbar-brand {
+    font-size: 22px !important;
+}
+
+a {
+    font-size: 18px;
+}
